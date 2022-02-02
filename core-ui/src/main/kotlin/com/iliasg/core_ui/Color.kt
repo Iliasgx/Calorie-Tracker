@@ -1,4 +1,4 @@
-package com.iliasg.calorietracker.ui.theme
+package com.iliasg.core_ui
 
 import androidx.compose.ui.graphics.Color
 
